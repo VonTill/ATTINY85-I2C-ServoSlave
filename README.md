@@ -9,3 +9,8 @@ Only uses Timer/Counter1 for OCR1A and OCR1B
 Does not touch Timer0 
 
 LOTS of notes in it for understanding PWM
+
+Personally would like to thank danielfaust for:
+https://github.com/danielfaust/ATtiny45-ADC-PWM-I2C-RaspberryPi
+
+I just build off it 
